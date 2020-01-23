@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7425" started-at="2020-01-23T08:54:04 EST" finished-at="2020-01-23T08:54:11 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7425" started-at="2020-01-23T08:54:04 EST" finished-at="2020-01-23T08:54:11 EST">
+      <class name="com.sis.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sis.testcases.LoginPageTest@6c49835d]" name="setUp" is-config="true" duration-ms="1932" started-at="2020-01-23T08:54:04 EST" finished-at="2020-01-23T08:54:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.sis.testcases.LoginPageTest@6c49835d]" name="loginTest" duration-ms="2721" started-at="2020-01-23T08:54:06 EST" finished-at="2020-01-23T08:54:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sis.testcases.LoginPageTest@6c49835d]" name="tearDown" is-config="true" duration-ms="85" started-at="2020-01-23T08:54:09 EST" finished-at="2020-01-23T08:54:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sis.testcases.LoginPageTest@6c49835d]" name="setUp" is-config="true" duration-ms="1151" started-at="2020-01-23T08:54:09 EST" finished-at="2020-01-23T08:54:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestNoPassword()[pri:0, instance:com.sis.testcases.LoginPageTest@6c49835d]" name="loginTestNoPassword" duration-ms="302" started-at="2020-01-23T08:54:10 EST" finished-at="2020-01-23T08:54:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestNoPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sis.testcases.LoginPageTest@6c49835d]" name="tearDown" is-config="true" duration-ms="87" started-at="2020-01-23T08:54:11 EST" finished-at="2020-01-23T08:54:11 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sis.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
